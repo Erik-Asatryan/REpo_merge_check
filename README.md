@@ -2,3 +2,4 @@
 Repository to check the merges
 Doing some changes on line 3
 Doing other changes on line 3
+Non-conflicting change
